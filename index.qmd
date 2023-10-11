@@ -1,3 +1,5 @@
 # Preface {.unnumbered}
 
-내용 수정 
+참고매뉴얼: 전자출판 nFyh0xVmR593vugadfT873dFE9STTzrQRnGGB60KNoU
+
+콰토 문서 만들기 > 로컬-원격저장소 연동: 로컬 ->원격 > Netlify를 이용한 배포=매뉴얼 잘 따라가기
